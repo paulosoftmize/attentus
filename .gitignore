@@ -1,0 +1,5 @@
+.venv_attentus
+dados
+*.pyc
+*.pdf
+*.log
