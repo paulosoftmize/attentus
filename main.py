@@ -13,7 +13,7 @@ from modelo.attentus import attentus
 def main():
 
     st.logo(image="softmize_logo.png", size="large", link="https://softmize.com.br") 
-    st.set_page_config(page_title="123", page_icon="softmize_favicon.png",
+    st.set_page_config(page_title="Attentus", page_icon="softmize_favicon.png",
                        layout=None, initial_sidebar_state=None, menu_items=None)
     st.title("Attentus")
     st.sidebar.title("Configs")
