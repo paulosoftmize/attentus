@@ -2,7 +2,7 @@
    [theme]
    primaryColor="#FABA90" # Example: Red primary color
    backgroundColor="#FFFFFF" # Example: White background
-   secondaryBackgroundColor="#6D9496" #"#F0F2F6" # Example: Light grey sidebar/secondary background
+   secondaryBackgroundColor="#F0F2F6" # Example: Light grey sidebar/secondary background
    textColor="#6D9496" # Example: Dark text color
    font="montserrat" # Example: Sans-serif font "sans serif"
 
